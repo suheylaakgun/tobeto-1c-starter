@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ES6", //arrow func, class keyword gibi güncellemeler es6 ile geldi.
+        "allowJs": true
+    },
+    "compileOnSave": true,
+}
